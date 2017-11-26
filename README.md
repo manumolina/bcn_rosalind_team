@@ -1,1 +1,3 @@
-# bcn_rosalind_team
+# BCN Rosalind Team
+
+This is a test
