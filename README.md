@@ -14,10 +14,11 @@ Al iniciar el grupo se ha sorteado el orden de cada uno de los participantes par
 
 * 1.- Alba
 * 2.- Dani
-* 3.- Manu
-* 4.- Vicky
-* 5.- Jesus
-* 6.- Joan Marc
+* 3.- Jon
+* 4.- Manu
+* 5.- Vicky
+* 6.- Jesus
+* 7.- Joan Marc
 
 --------------
 
